@@ -1,0 +1,7 @@
+{
+	"serverPort": 3000,
+	"mongoIP": "localhost",
+	"mongoDBName": "databaseone",
+	"mongoDBUserName": "",
+	"mongoDBPasswd": ""
+}
